@@ -7,4 +7,4 @@ to write unit tests using *Mocha* and *Chai* to test those algorithms.
 
 * Writing a series of unit tests using Mocha And Chai
 
-* Using different **expect()** methods to test the code
+
